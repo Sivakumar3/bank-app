@@ -1,0 +1,95 @@
+/* home style */
+.Outline{
+  align-items: center;
+}
+
+.home{
+  font-family: 'Times New Roman', Times, serif;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 1300px;
+  text-align: center;
+  background-color: deepskyblue;
+  font-size:x-large;
+  padding-left: 5%;
+}
+.head{
+  padding-right: 280px;
+  font-size:xx-large;
+}
+
+.header{
+  font-size:xx-large;
+}
+.para{
+  font-size: x-large;
+}
+
+.all {
+  transition: 0.3s;
+  background: skyblue;
+  align-items: center;
+  width: 1200px;
+  height: 1200px;
+}
+
+/* navbar style */
+.navbar-brand{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  color:darkorchid
+
+}
+.nav-link{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  color: gold;
+}
+.navbar-nav{
+  align-items: center;
+}
+
+.navbar{
+  background-color: deepskyblue;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  border-style: dotted;
+  border-color:crimson;
+  border-width: 3px;
+}
+
+/* create account , Login , Deopsit , Withdraw , Balance & Alldata style */
+.createcard{
+  background-color: skyblue;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+  border-style: dashed;
+  border-width: 10px;
+  border-color: purple;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+.Par{
+  align-items: center;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.body{
+  background-color: skyblue;
+  width: 800px;
+  height: 350px;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+.button{
+  color: blue;
+}
+
+.btn{
+  align-items: center;
+}
